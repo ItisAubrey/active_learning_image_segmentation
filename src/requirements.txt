@@ -1,0 +1,8 @@
+pandas
+numpy
+tensorflow
+tqdm
+scikit-learn
+h5py
+albumentations
+opencv-python
